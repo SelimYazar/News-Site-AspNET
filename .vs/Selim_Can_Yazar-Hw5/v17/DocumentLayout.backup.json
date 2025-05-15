@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\selim\\source\\repos\\Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{793CD3EE-2492-44E2-B482-1F2977286398}|Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5.csproj|c:\\users\\selim\\source\\repos\\selim_can_yazar-hw5\\selim_can_yazar-hw5\\selim_can_yazar-hw5\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{793CD3EE-2492-44E2-B482-1F2977286398}|Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5.csproj|solutionrelative:selim_can_yazar-hw5\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{793CD3EE-2492-44E2-B482-1F2977286398}|Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5.csproj|C:\\Users\\selim\\source\\repos\\Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5\\selim_can_yazar-hw5\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{793CD3EE-2492-44E2-B482-1F2977286398}|Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5.csproj|solutionrelative:selim_can_yazar-hw5\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{793CD3EE-2492-44E2-B482-1F2977286398}|Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5.csproj|C:\\Users\\selim\\source\\repos\\Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5\\selim_can_yazar-hw5\\newsdetail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{793CD3EE-2492-44E2-B482-1F2977286398}|Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5.csproj|solutionrelative:selim_can_yazar-hw5\\newsdetail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{793CD3EE-2492-44E2-B482-1F2977286398}|Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5.csproj|C:\\Users\\selim\\source\\repos\\Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5\\selim_can_yazar-hw5\\newsdetail.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{793CD3EE-2492-44E2-B482-1F2977286398}|Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5.csproj|solutionrelative:selim_can_yazar-hw5\\newsdetail.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{793CD3EE-2492-44E2-B482-1F2977286398}|Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5.csproj|C:\\Users\\selim\\source\\repos\\Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5\\selim_can_yazar-hw5\\rssparsing.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{793CD3EE-2492-44E2-B482-1F2977286398}|Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5.csproj|solutionrelative:selim_can_yazar-hw5\\rssparsing.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{793CD3EE-2492-44E2-B482-1F2977286398}|Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5.csproj|C:\\Users\\selim\\source\\repos\\Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5\\selim_can_yazar-hw5\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{793CD3EE-2492-44E2-B482-1F2977286398}|Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5.csproj|solutionrelative:selim_can_yazar-hw5\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{793CD3EE-2492-44E2-B482-1F2977286398}|Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5.csproj|C:\\Users\\selim\\source\\repos\\Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5\\selim_can_yazar-hw5\\rssparsing.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{793CD3EE-2492-44E2-B482-1F2977286398}|Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5.csproj|solutionrelative:selim_can_yazar-hw5\\rssparsing.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{793CD3EE-2492-44E2-B482-1F2977286398}|Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5.csproj|C:\\Users\\selim\\source\\repos\\Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5\\selim_can_yazar-hw5\\app_code\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{793CD3EE-2492-44E2-B482-1F2977286398}|Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5.csproj|solutionrelative:selim_can_yazar-hw5\\app_code\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "C:\\Users\\selim\\source\\repos\\Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5\\Home.aspx",
+              "RelativeDocumentMoniker": "Selim_Can_Yazar-Hw5\\Home.aspx",
+              "ToolTip": "C:\\Users\\selim\\source\\repos\\Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5\\Home.aspx",
+              "RelativeToolTip": "Selim_Can_Yazar-Hw5\\Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-03T10:16:26.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\source\\repos\\Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5\\Home.aspx.cs",
+              "RelativeDocumentMoniker": "Selim_Can_Yazar-Hw5\\Home.aspx.cs",
+              "ToolTip": "C:\\Users\\selim\\source\\repos\\Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5\\Home.aspx.cs",
+              "RelativeToolTip": "Selim_Can_Yazar-Hw5\\Home.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T10:16:56.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewsDetail.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\source\\repos\\Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5\\NewsDetail.aspx.cs",
+              "RelativeDocumentMoniker": "Selim_Can_Yazar-Hw5\\NewsDetail.aspx.cs",
+              "ToolTip": "C:\\Users\\selim\\source\\repos\\Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5\\NewsDetail.aspx.cs",
+              "RelativeToolTip": "Selim_Can_Yazar-Hw5\\NewsDetail.aspx.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAuwBUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T10:19:08.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewsDetail.aspx",
+              "DocumentMoniker": "C:\\Users\\selim\\source\\repos\\Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5\\NewsDetail.aspx",
+              "RelativeDocumentMoniker": "Selim_Can_Yazar-Hw5\\NewsDetail.aspx",
+              "ToolTip": "C:\\Users\\selim\\source\\repos\\Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5\\NewsDetail.aspx",
+              "RelativeToolTip": "Selim_Can_Yazar-Hw5\\NewsDetail.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-03T10:18:35.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RSSparsing.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\source\\repos\\Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5\\RSSparsing.aspx.cs",
+              "RelativeDocumentMoniker": "Selim_Can_Yazar-Hw5\\RSSparsing.aspx.cs",
+              "ToolTip": "C:\\Users\\selim\\source\\repos\\Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5\\RSSparsing.aspx.cs",
+              "RelativeToolTip": "Selim_Can_Yazar-Hw5\\RSSparsing.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T10:13:58.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\selim\\source\\repos\\Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5\\Web.config",
+              "RelativeDocumentMoniker": "Selim_Can_Yazar-Hw5\\Web.config",
+              "ToolTip": "C:\\Users\\selim\\source\\repos\\Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5\\Web.config",
+              "RelativeToolTip": "Selim_Can_Yazar-Hw5\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-03T10:19:45.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RSSparsing.aspx",
+              "DocumentMoniker": "C:\\Users\\selim\\source\\repos\\Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5\\RSSparsing.aspx",
+              "RelativeDocumentMoniker": "Selim_Can_Yazar-Hw5\\RSSparsing.aspx",
+              "ToolTip": "C:\\Users\\selim\\source\\repos\\Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5\\RSSparsing.aspx",
+              "RelativeToolTip": "Selim_Can_Yazar-Hw5\\RSSparsing.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-03T10:13:05.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "News.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\source\\repos\\Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5\\App_Code\\News.cs",
+              "RelativeDocumentMoniker": "Selim_Can_Yazar-Hw5\\App_Code\\News.cs",
+              "ToolTip": "C:\\Users\\selim\\source\\repos\\Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5\\Selim_Can_Yazar-Hw5\\App_Code\\News.cs",
+              "RelativeToolTip": "Selim_Can_Yazar-Hw5\\App_Code\\News.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T10:11:19.844Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+2025-05-03 15:05:19,259 ERROR RSS parsing sýrasýnda hata oluþtu:
+System.Xml.XmlException: EntityName ayrýþtýrýlýrken hata oluþtu. Satýr 39, konum 63.
+   konum: System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   konum: System.Xml.XmlTextReaderImpl.ParseEntityName()
+   konum: System.Xml.XmlTextReaderImpl.ParseEntityReference()
+   konum: System.Xml.XmlTextReaderImpl.Read()
+   konum: System.Xml.XmlLoader.LoadNode(Boolean skipOverWhitespace)
+   konum: System.Xml.XmlLoader.LoadDocSequence(XmlDocument parentDoc)
+   konum: System.Xml.XmlDocument.Load(XmlReader reader)
+   konum: System.Xml.XmlDocument.LoadXml(String xml)
+   konum: Selim_Can_Yazar_Hw5.RSSparsing.Page_Load(Object sender, EventArgs e) C:\Users\selim\source\repos\Selim_Can_Yazar-Hw5\Selim_Can_Yazar-Hw5\RSSparsing.aspx.cs içinde: satýr 43
+2025-05-03 15:06:16,240 ERROR RSS parsing sýrasýnda hata oluþtu:
+System.Xml.XmlException: EntityName ayrýþtýrýlýrken hata oluþtu. Satýr 39, konum 63.
+   konum: System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   konum: System.Xml.XmlTextReaderImpl.ParseEntityName()
+   konum: System.Xml.XmlTextReaderImpl.ParseEntityReference()
+   konum: System.Xml.XmlTextReaderImpl.Read()
+   konum: System.Xml.XmlLoader.LoadNode(Boolean skipOverWhitespace)
+   konum: System.Xml.XmlLoader.LoadDocSequence(XmlDocument parentDoc)
+   konum: System.Xml.XmlDocument.Load(XmlReader reader)
+   konum: System.Xml.XmlDocument.LoadXml(String xml)
+   konum: Selim_Can_Yazar_Hw5.RSSparsing.Page_Load(Object sender, EventArgs e) C:\Users\selim\source\repos\Selim_Can_Yazar-Hw5\Selim_Can_Yazar-Hw5\RSSparsing.aspx.cs içinde: satýr 43
+2025-05-03 15:12:10,357 ERROR RSS parsing sýrasýnda hata oluþtu:
+System.Xml.XmlException: '>' beklenmeyen bir belirteç. Beklenen belirteç: '='. Satýr 51, konum 114.
+   konum: System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   konum: System.Xml.XmlTextReaderImpl.ParseAttributes()
+   konum: System.Xml.XmlTextReaderImpl.ParseElement()
+   konum: System.Xml.XmlTextReaderImpl.ParseElementContent()
+   konum: System.Xml.XmlLoader.LoadNode(Boolean skipOverWhitespace)
+   konum: System.Xml.XmlLoader.LoadDocSequence(XmlDocument parentDoc)
+   konum: System.Xml.XmlDocument.Load(XmlReader reader)
+   konum: System.Xml.XmlDocument.LoadXml(String xml)
+   konum: Selim_Can_Yazar_Hw5.RSSparsing.Page_Load(Object sender, EventArgs e) C:\Users\selim\source\repos\Selim_Can_Yazar-Hw5\Selim_Can_Yazar-Hw5\RSSparsing.aspx.cs içinde: satýr 49
+2025-05-03 15:12:14,334 ERROR RSS parsing sýrasýnda hata oluþtu:
+System.Xml.XmlException: '>' beklenmeyen bir belirteç. Beklenen belirteç: '='. Satýr 51, konum 114.
+   konum: System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   konum: System.Xml.XmlTextReaderImpl.ParseAttributes()
+   konum: System.Xml.XmlTextReaderImpl.ParseElement()
+   konum: System.Xml.XmlTextReaderImpl.ParseElementContent()
+   konum: System.Xml.XmlLoader.LoadNode(Boolean skipOverWhitespace)
+   konum: System.Xml.XmlLoader.LoadDocSequence(XmlDocument parentDoc)
+   konum: System.Xml.XmlDocument.Load(XmlReader reader)
+   konum: System.Xml.XmlDocument.LoadXml(String xml)
+   konum: Selim_Can_Yazar_Hw5.RSSparsing.Page_Load(Object sender, EventArgs e) C:\Users\selim\source\repos\Selim_Can_Yazar-Hw5\Selim_Can_Yazar-Hw5\RSSparsing.aspx.cs içinde: satýr 49
+2025-05-03 15:12:14,846 ERROR RSS parsing sýrasýnda hata oluþtu:
+System.Xml.XmlException: '>' beklenmeyen bir belirteç. Beklenen belirteç: '='. Satýr 51, konum 114.
+   konum: System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   konum: System.Xml.XmlTextReaderImpl.ParseAttributes()
+   konum: System.Xml.XmlTextReaderImpl.ParseElement()
+   konum: System.Xml.XmlTextReaderImpl.ParseElementContent()
+   konum: System.Xml.XmlLoader.LoadNode(Boolean skipOverWhitespace)
+   konum: System.Xml.XmlLoader.LoadDocSequence(XmlDocument parentDoc)
+   konum: System.Xml.XmlDocument.Load(XmlReader reader)
+   konum: System.Xml.XmlDocument.LoadXml(String xml)
+   konum: Selim_Can_Yazar_Hw5.RSSparsing.Page_Load(Object sender, EventArgs e) C:\Users\selim\source\repos\Selim_Can_Yazar-Hw5\Selim_Can_Yazar-Hw5\RSSparsing.aspx.cs içinde: satýr 49
+2025-05-03 15:12:15,002 ERROR RSS parsing sýrasýnda hata oluþtu:
+System.Xml.XmlException: '>' beklenmeyen bir belirteç. Beklenen belirteç: '='. Satýr 51, konum 114.
+   konum: System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   konum: System.Xml.XmlTextReaderImpl.ParseAttributes()
+   konum: System.Xml.XmlTextReaderImpl.ParseElement()
+   konum: System.Xml.XmlTextReaderImpl.ParseElementContent()
+   konum: System.Xml.XmlLoader.LoadNode(Boolean skipOverWhitespace)
+   konum: System.Xml.XmlLoader.LoadDocSequence(XmlDocument parentDoc)
+   konum: System.Xml.XmlDocument.Load(XmlReader reader)
+   konum: System.Xml.XmlDocument.LoadXml(String xml)
+   konum: Selim_Can_Yazar_Hw5.RSSparsing.Page_Load(Object sender, EventArgs e) C:\Users\selim\source\repos\Selim_Can_Yazar-Hw5\Selim_Can_Yazar-Hw5\RSSparsing.aspx.cs içinde: satýr 49
+2025-05-03 15:12:15,193 ERROR RSS parsing sýrasýnda hata oluþtu:
+System.Xml.XmlException: '>' beklenmeyen bir belirteç. Beklenen belirteç: '='. Satýr 51, konum 114.
+   konum: System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   konum: System.Xml.XmlTextReaderImpl.ParseAttributes()
+   konum: System.Xml.XmlTextReaderImpl.ParseElement()
+   konum: System.Xml.XmlTextReaderImpl.ParseElementContent()
+   konum: System.Xml.XmlLoader.LoadNode(Boolean skipOverWhitespace)
+   konum: System.Xml.XmlLoader.LoadDocSequence(XmlDocument parentDoc)
+   konum: System.Xml.XmlDocument.Load(XmlReader reader)
+   konum: System.Xml.XmlDocument.LoadXml(String xml)
+   konum: Selim_Can_Yazar_Hw5.RSSparsing.Page_Load(Object sender, EventArgs e) C:\Users\selim\source\repos\Selim_Can_Yazar-Hw5\Selim_Can_Yazar-Hw5\RSSparsing.aspx.cs içinde: satýr 49
+2025-05-03 15:12:15,340 ERROR RSS parsing sýrasýnda hata oluþtu:
+System.Xml.XmlException: '>' beklenmeyen bir belirteç. Beklenen belirteç: '='. Satýr 51, konum 114.
+   konum: System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   konum: System.Xml.XmlTextReaderImpl.ParseAttributes()
+   konum: System.Xml.XmlTextReaderImpl.ParseElement()
+   konum: System.Xml.XmlTextReaderImpl.ParseElementContent()
+   konum: System.Xml.XmlLoader.LoadNode(Boolean skipOverWhitespace)
+   konum: System.Xml.XmlLoader.LoadDocSequence(XmlDocument parentDoc)
+   konum: System.Xml.XmlDocument.Load(XmlReader reader)
+   konum: System.Xml.XmlDocument.LoadXml(String xml)
+   konum: Selim_Can_Yazar_Hw5.RSSparsing.Page_Load(Object sender, EventArgs e) C:\Users\selim\source\repos\Selim_Can_Yazar-Hw5\Selim_Can_Yazar-Hw5\RSSparsing.aspx.cs içinde: satýr 49
+2025-05-03 15:16:22,297 ERROR RSS parsing sýrasýnda hata oluþtu:
+System.Xml.XmlException: '>' beklenmeyen bir belirteç. Beklenen belirteç: '='. Satýr 51, konum 114.
+   konum: System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   konum: System.Xml.XmlTextReaderImpl.ParseAttributes()
+   konum: System.Xml.XmlTextReaderImpl.ParseElement()
+   konum: System.Xml.XmlTextReaderImpl.ParseElementContent()
+   konum: System.Xml.XmlLoader.LoadNode(Boolean skipOverWhitespace)
+   konum: System.Xml.XmlLoader.LoadDocSequence(XmlDocument parentDoc)
+   konum: System.Xml.XmlDocument.Load(XmlReader reader)
+   konum: System.Xml.XmlDocument.LoadXml(String xml)
+   konum: Selim_Can_Yazar_Hw5.RSSparsing.Page_Load(Object sender, EventArgs e) C:\Users\selim\source\repos\Selim_Can_Yazar-Hw5\Selim_Can_Yazar-Hw5\RSSparsing.aspx.cs içinde: satýr 49
+2025-05-03 15:23:01,090 ERROR RSS parsing sýrasýnda hata oluþtu:
+System.Xml.XmlException: '>' beklenmeyen bir belirteç. Beklenen belirteç: '='. Satýr 51, konum 114.
+   konum: System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   konum: System.Xml.XmlTextReaderImpl.ParseAttributes()
+   konum: System.Xml.XmlTextReaderImpl.ParseElement()
+   konum: System.Xml.XmlTextReaderImpl.ParseElementContent()
+   konum: System.Xml.XmlLoader.LoadNode(Boolean skipOverWhitespace)
+   konum: System.Xml.XmlLoader.LoadDocSequence(XmlDocument parentDoc)
+   konum: System.Xml.XmlDocument.Load(XmlReader reader)
+   konum: System.Xml.XmlDocument.LoadXml(String xml)
+   konum: Selim_Can_Yazar_Hw5.RSSparsing.Page_Load(Object sender, EventArgs e) C:\Users\selim\source\repos\Selim_Can_Yazar-Hw5\Selim_Can_Yazar-Hw5\RSSparsing.aspx.cs içinde: satýr 50
+2025-05-03 15:24:57,495 ERROR RSS parsing sýrasýnda hata oluþtu:
+System.Xml.XmlException: Adý 'html' ve ad alaný '' olan öðe izin verilen bir akýþ biçimi deðil.
+   konum: System.ServiceModel.Syndication.SyndicationFeed.Load[TSyndicationFeed](XmlReader reader)
+   konum: Selim_Can_Yazar_Hw5.RSSparsing.Page_Load(Object sender, EventArgs e) C:\Users\selim\source\repos\Selim_Can_Yazar-Hw5\Selim_Can_Yazar-Hw5\RSSparsing.aspx.cs içinde: satýr 38
+2025-05-03 15:26:43,122 ERROR RSS parsing sýrasýnda hata oluþtu:
+System.Xml.XmlException: Adý 'html' ve ad alaný '' olan öðe izin verilen bir akýþ biçimi deðil.
+   konum: System.ServiceModel.Syndication.SyndicationFeed.Load[TSyndicationFeed](XmlReader reader)
+   konum: Selim_Can_Yazar_Hw5.RSSparsing.Page_Load(Object sender, EventArgs e) C:\Users\selim\source\repos\Selim_Can_Yazar-Hw5\Selim_Can_Yazar-Hw5\RSSparsing.aspx.cs içinde: satýr 38
+2025-05-03 17:44:31,957 INFO  [Fetch] Yüklenen URL: https://www.nytimes.com/2025/05/03/us/harvard-alan-garber-trump-administration.html
+2025-05-03 17:44:31,968 INFO    Denenen XPath: //section[@itemprop='articleBody']  => Bulunamadý
+2025-05-03 17:44:31,968 INFO    Denenen XPath: //section[contains(@class,'meteredContent')]  => Bulunamadý
+2025-05-03 17:44:31,968 INFO    Denenen XPath: //section[@name='articleBody']  => Bulunamadý
+2025-05-03 17:44:31,968 INFO    Denenen XPath: //div[contains(@class,'StoryBodyCompanionColumn')]  => Bulunamadý
+2025-05-03 17:44:31,968 INFO    Denenen XPath: //article  => Bulunamadý
+2025-05-03 17:44:32,641 INFO  [Fetch] Yüklenen URL: https://www.nytimes.com/2025/05/02/us/politics/trump-harvard-tax-exempt-status.html
+2025-05-03 17:44:32,641 INFO    Denenen XPath: //section[@itemprop='articleBody']  => Bulunamadý
+2025-05-03 17:44:32,641 INFO    Denenen XPath: //section[contains(@class,'meteredContent')]  => Bulunamadý
+2025-05-03 17:44:32,641 INFO    Denenen XPath: //section[@name='articleBody']  => Bulunamadý
+2025-05-03 17:44:32,641 INFO    Denenen XPath: //div[contains(@class,'StoryBodyCompanionColumn')]  => Bulunamadý
+2025-05-03 17:44:32,641 INFO    Denenen XPath: //article  => Bulunamadý
+2025-05-03 17:44:32,897 INFO  [Fetch] Yüklenen URL: https://www.nytimes.com/2025/05/03/business/trump-auto-parts-tariffs.html
+2025-05-03 17:44:32,897 INFO    Denenen XPath: //section[@itemprop='articleBody']  => Bulunamadý
+2025-05-03 17:44:32,897 INFO    Denenen XPath: //section[contains(@class,'meteredContent')]  => Bulunamadý
+2025-05-03 17:44:32,897 INFO    Denenen XPath: //section[@name='articleBody']  => Bulunamadý
+2025-05-03 17:44:32,897 INFO    Denenen XPath: //div[contains(@class,'StoryBodyCompanionColumn')]  => Bulunamadý
+2025-05-03 17:44:32,897 INFO    Denenen XPath: //article  => Bulunamadý
+2025-05-03 17:44:33,151 INFO  [Fetch] Yüklenen URL: https://www.nytimes.com/2025/05/03/world/asia/us-china-tariffs-fentanyl.html
+2025-05-03 17:44:33,151 INFO    Denenen XPath: //section[@itemprop='articleBody']  => Bulunamadý
+2025-05-03 17:44:33,151 INFO    Denenen XPath: //section[contains(@class,'meteredContent')]  => Bulunamadý
+2025-05-03 17:44:33,151 INFO    Denenen XPath: //section[@name='articleBody']  => Bulunamadý
+2025-05-03 17:44:33,151 INFO    Denenen XPath: //div[contains(@class,'StoryBodyCompanionColumn')]  => Bulunamadý
+2025-05-03 17:44:33,151 INFO    Denenen XPath: //article  => Bulunamadý
+2025-05-03 17:44:33,433 INFO  [Fetch] Yüklenen URL: https://www.nytimes.com/2025/05/03/business/china-tariffs-temu-shein.html
+2025-05-03 17:44:33,433 INFO    Denenen XPath: //section[@itemprop='articleBody']  => Bulunamadý
+2025-05-03 17:44:33,433 INFO    Denenen XPath: //section[contains(@class,'meteredContent')]  => Bulunamadý
+2025-05-03 17:44:33,433 INFO    Denenen XPath: //section[@name='articleBody']  => Bulunamadý
+2025-05-03 17:44:33,433 INFO    Denenen XPath: //div[contains(@class,'StoryBodyCompanionColumn')]  => Bulunamadý
+2025-05-03 17:44:33,433 INFO    Denenen XPath: //article  => Bulunamadý
+2025-05-03 17:44:33,683 INFO  [Fetch] Yüklenen URL: https://www.nytimes.com/2025/05/03/business/berkshire-earnings-warren-buffett.html
+2025-05-03 17:44:33,683 INFO    Denenen XPath: //section[@itemprop='articleBody']  => Bulunamadý
+2025-05-03 17:44:33,683 INFO    Denenen XPath: //section[contains(@class,'meteredContent')]  => Bulunamadý
+2025-05-03 17:44:33,683 INFO    Denenen XPath: //section[@name='articleBody']  => Bulunamadý
+2025-05-03 17:44:33,683 INFO    Denenen XPath: //div[contains(@class,'StoryBodyCompanionColumn')]  => Bulunamadý
+2025-05-03 17:44:33,683 INFO    Denenen XPath: //article  => Bulunamadý
+2025-05-03 17:44:33,931 INFO  [Fetch] Yüklenen URL: https://www.nytimes.com/2025/05/02/us/politics/trump-cia-cuts.html
+2025-05-03 17:44:33,931 INFO    Denenen XPath: //section[@itemprop='articleBody']  => Bulunamadý
+2025-05-03 17:44:33,931 INFO    Denenen XPath: //section[contains(@class,'meteredContent')]  => Bulunamadý
+2025-05-03 17:44:33,931 INFO    Denenen XPath: //section[@name='articleBody']  => Bulunamadý
+2025-05-03 17:44:33,931 INFO    Denenen XPath: //div[contains(@class,'StoryBodyCompanionColumn')]  => Bulunamadý
+2025-05-03 17:44:33,931 INFO    Denenen XPath: //article  => Bulunamadý
+2025-05-03 17:44:34,177 INFO  [Fetch] Yüklenen URL: https://www.nytimes.com/2025/05/02/arts/nea.html
+2025-05-03 17:44:34,177 INFO    Denenen XPath: //section[@itemprop='articleBody']  => Bulunamadý
+2025-05-03 17:44:34,177 INFO    Denenen XPath: //section[contains(@class,'meteredContent')]  => Bulunamadý
+2025-05-03 17:44:34,177 INFO    Denenen XPath: //section[@name='articleBody']  => Bulunamadý
+2025-05-03 17:44:34,177 INFO    Denenen XPath: //div[contains(@class,'StoryBodyCompanionColumn')]  => Bulunamadý
+2025-05-03 17:44:34,177 INFO    Denenen XPath: //article  => Bulunamadý
+2025-05-03 17:44:34,455 INFO  [Fetch] Yüklenen URL: https://www.nytimes.com/2025/05/03/us/politics/montana-republicans-democrats-compromise.html
+2025-05-03 17:44:34,455 INFO    Denenen XPath: //section[@itemprop='articleBody']  => Bulunamadý
+2025-05-03 17:44:34,455 INFO    Denenen XPath: //section[contains(@class,'meteredContent')]  => Bulunamadý
+2025-05-03 17:44:34,455 INFO    Denenen XPath: //section[@name='articleBody']  => Bulunamadý
+2025-05-03 17:44:34,455 INFO    Denenen XPath: //div[contains(@class,'StoryBodyCompanionColumn')]  => Bulunamadý
+2025-05-03 17:44:34,455 INFO    Denenen XPath: //article  => Bulunamadý
+2025-05-03 17:44:34,725 INFO  [Fetch] Yüklenen URL: https://www.nytimes.com/2025/05/02/world/asia/australia-prime-minister-election.html
+2025-05-03 17:44:34,725 INFO    Denenen XPath: //section[@itemprop='articleBody']  => Bulunamadý
+2025-05-03 17:44:34,725 INFO    Denenen XPath: //section[contains(@class,'meteredContent')]  => Bulunamadý
+2025-05-03 17:44:34,725 INFO    Denenen XPath: //section[@name='articleBody']  => Bulunamadý
+2025-05-03 17:44:34,726 INFO    Denenen XPath: //div[contains(@class,'StoryBodyCompanionColumn')]  => Bulunamadý
+2025-05-03 17:44:34,726 INFO    Denenen XPath: //article  => Bulunamadý
+2025-05-03 17:44:34,991 INFO  [Fetch] Yüklenen URL: https://www.nytimes.com/2025/05/03/world/middleeast/syria-druse-sectarian-violence.html
+2025-05-03 17:44:34,991 INFO    Denenen XPath: //section[@itemprop='articleBody']  => Bulunamadý
+2025-05-03 17:44:34,991 INFO    Denenen XPath: //section[contains(@class,'meteredContent')]  => Bulunamadý
+2025-05-03 17:44:34,991 INFO    Denenen XPath: //section[@name='articleBody']  => Bulunamadý
+2025-05-03 17:44:34,991 INFO    Denenen XPath: //div[contains(@class,'StoryBodyCompanionColumn')]  => Bulunamadý
+2025-05-03 17:44:34,991 INFO    Denenen XPath: //article  => Bulunamadý
+2025-05-03 17:44:35,255 INFO  [Fetch] Yüklenen URL: https://www.nytimes.com/2025/05/03/world/europe/pope-conclave-contentious-issues.html
+2025-05-03 17:44:35,255 INFO    Denenen XPath: //section[@itemprop='articleBody']  => Bulunamadý
+2025-05-03 17:44:35,255 INFO    Denenen XPath: //section[contains(@class,'meteredContent')]  => Bulunamadý
+2025-05-03 17:44:35,255 INFO    Denenen XPath: //section[@name='articleBody']  => Bulunamadý
+2025-05-03 17:44:35,256 INFO    Denenen XPath: //div[contains(@class,'StoryBodyCompanionColumn')]  => Bulunamadý
+2025-05-03 17:44:35,256 INFO    Denenen XPath: //article  => Bulunamadý
+2025-05-03 17:44:35,502 INFO  [Fetch] Yüklenen URL: https://www.nytimes.com/2025/05/03/world/europe/pope-conclave-cardinal-pietro-parolin.html
+2025-05-03 17:44:35,502 INFO    Denenen XPath: //section[@itemprop='articleBody']  => Bulunamadý
+2025-05-03 17:44:35,502 INFO    Denenen XPath: //section[contains(@class,'meteredContent')]  => Bulunamadý
+2025-05-03 17:44:35,502 INFO    Denenen XPath: //section[@name='articleBody']  => Bulunamadý
+2025-05-03 17:44:35,502 INFO    Denenen XPath: //div[contains(@class,'StoryBodyCompanionColumn')]  => Bulunamadý
+2025-05-03 17:44:35,502 INFO    Denenen XPath: //article  => Bulunamadý
+2025-05-03 17:44:35,768 INFO  [Fetch] Yüklenen URL: https://www.nytimes.com/2025/05/03/health/elderly-treatment-aides.html
+2025-05-03 17:44:35,768 INFO    Denenen XPath: //section[@itemprop='articleBody']  => Bulunamadý
+2025-05-03 17:44:35,768 INFO    Denenen XPath: //section[contains(@class,'meteredContent')]  => Bulunamadý
+2025-05-03 17:44:35,768 INFO    Denenen XPath: //section[@name='articleBody']  => Bulunamadý
+2025-05-03 17:44:35,768 INFO    Denenen XPath: //div[contains(@class,'StoryBodyCompanionColumn')]  => Bulunamadý
+2025-05-03 17:44:35,768 INFO    Denenen XPath: //article  => Bulunamadý
+2025-05-03 17:44:36,014 INFO  [Fetch] Yüklenen URL: https://www.nytimes.com/2025/05/03/sports/kentucky-derby-racing-business.html
+2025-05-03 17:44:36,014 INFO    Denenen XPath: //section[@itemprop='articleBody']  => Bulunamadý
+2025-05-03 17:44:36,014 INFO    Denenen XPath: //section[contains(@class,'meteredContent')]  => Bulunamadý
+2025-05-03 17:44:36,014 INFO    Denenen XPath: //section[@name='articleBody']  => Bulunamadý
+2025-05-03 17:44:36,014 INFO    Denenen XPath: //div[contains(@class,'StoryBodyCompanionColumn')]  => Bulunamadý
+2025-05-03 17:44:36,014 INFO    Denenen XPath: //article  => Bulunamadý
+2025-05-03 17:44:36,267 INFO  [Fetch] Yüklenen URL: https://www.nytimes.com/2025/05/03/nyregion/who-would-steal-new-york-citys-pigeons-mother-pigeon-thought-she-knew.html
+2025-05-03 17:44:36,267 INFO    Denenen XPath: //section[@itemprop='articleBody']  => Bulunamadý
+2025-05-03 17:44:36,267 INFO    Denenen XPath: //section[contains(@class,'meteredContent')]  => Bulunamadý
+2025-05-03 17:44:36,267 INFO    Denenen XPath: //section[@name='articleBody']  => Bulunamadý
+2025-05-03 17:44:36,267 INFO    Denenen XPath: //div[contains(@class,'StoryBodyCompanionColumn')]  => Bulunamadý
+2025-05-03 17:44:36,267 INFO    Denenen XPath: //article  => Bulunamadý
+2025-05-03 17:44:36,541 INFO  [Fetch] Yüklenen URL: https://www.nytimes.com/2025/05/03/opinion/antidepressants-withdrawal-rfk.html
+2025-05-03 17:44:36,541 INFO    Denenen XPath: //section[@itemprop='articleBody']  => Bulunamadý
+2025-05-03 17:44:36,541 INFO    Denenen XPath: //section[contains(@class,'meteredContent')]  => Bulunamadý
+2025-05-03 17:44:36,541 INFO    Denenen XPath: //section[@name='articleBody']  => Bulunamadý
+2025-05-03 17:44:36,541 INFO    Denenen XPath: //div[contains(@class,'StoryBodyCompanionColumn')]  => Bulunamadý
+2025-05-03 17:44:36,541 INFO    Denenen XPath: //article  => Bulunamadý
+2025-05-03 17:44:36,803 INFO  [Fetch] Yüklenen URL: https://www.nytimes.com/2025/05/03/opinion/spain-portugal-blackout.html
+2025-05-03 17:44:36,803 INFO    Denenen XPath: //section[@itemprop='articleBody']  => Bulunamadý
+2025-05-03 17:44:36,803 INFO    Denenen XPath: //section[contains(@class,'meteredContent')]  => Bulunamadý
+2025-05-03 17:44:36,803 INFO    Denenen XPath: //section[@name='articleBody']  => Bulunamadý
+2025-05-03 17:44:36,803 INFO    Denenen XPath: //div[contains(@class,'StoryBodyCompanionColumn')]  => Bulunamadý
+2025-05-03 17:44:36,803 INFO    Denenen XPath: //article  => Bulunamadý
+2025-05-03 17:44:37,072 INFO  [Fetch] Yüklenen URL: https://www.nytimes.com/2025/05/03/briefing/memory-palace.html
+2025-05-03 17:44:37,072 INFO    Denenen XPath: //section[@itemprop='articleBody']  => Bulunamadý
+2025-05-03 17:44:37,072 INFO    Denenen XPath: //section[contains(@class,'meteredContent')]  => Bulunamadý
+2025-05-03 17:44:37,072 INFO    Denenen XPath: //section[@name='articleBody']  => Bulunamadý
+2025-05-03 17:44:37,072 INFO    Denenen XPath: //div[contains(@class,'StoryBodyCompanionColumn')]  => Bulunamadý
+2025-05-03 17:44:37,072 INFO    Denenen XPath: //article  => Bulunamadý
+2025-05-03 17:44:37,320 INFO  [Fetch] Yüklenen URL: https://www.nytimes.com/2025/05/03/technology/world-eye-scanning-crypto-orbs-launch-in-us.html
+2025-05-03 17:44:37,320 INFO    Denenen XPath: //section[@itemprop='articleBody']  => Bulunamadý
+2025-05-03 17:44:37,320 INFO    Denenen XPath: //section[contains(@class,'meteredContent')]  => Bulunamadý
+2025-05-03 17:44:37,320 INFO    Denenen XPath: //section[@name='articleBody']  => Bulunamadý
+2025-05-03 17:44:37,320 INFO    Denenen XPath: //div[contains(@class,'StoryBodyCompanionColumn')]  => Bulunamadý
+2025-05-03 17:44:37,320 INFO    Denenen XPath: //article  => Bulunamadý
+2025-05-03 17:53:30,588 ERROR RSS parsing sýrasýnda hata oluþtu:
+System.Xml.XmlException: Adý 'html' ve ad alaný '' olan öðe izin verilen bir akýþ biçimi deðil.
+   konum: System.ServiceModel.Syndication.SyndicationFeed.Load[TSyndicationFeed](XmlReader reader)
+   konum: Selim_Can_Yazar_Hw5.RSSparsing.Page_Load(Object sender, EventArgs e) C:\Users\selim\source\repos\Selim_Can_Yazar-Hw5\Selim_Can_Yazar-Hw5\RSSparsing.aspx.cs içinde: satýr 35
+2025-05-03 17:56:35,746 ERROR RSS parsing sýrasýnda hata oluþtu:
+System.Net.WebException: Ýstek durduruldu: Baðlantý beklenmedik bir þekilde kapatýldý.
+   konum: System.Net.HttpWebRequest.GetResponse()
+   konum: System.Xml.XmlDownloadManager.GetNonFileStream(Uri uri, ICredentials credentials, IWebProxy proxy, RequestCachePolicy cachePolicy)
+   konum: System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   konum: System.Xml.XmlTextReaderImpl.FinishInitUriString()
+   konum: System.Xml.XmlReaderSettings.CreateReader(String inputUri, XmlParserContext inputContext)
+   konum: System.Xml.XmlReader.Create(String inputUri, XmlReaderSettings settings)
+   konum: Selim_Can_Yazar_Hw5.RSSparsing.Page_Load(Object sender, EventArgs e) C:\Users\selim\source\repos\Selim_Can_Yazar-Hw5\Selim_Can_Yazar-Hw5\RSSparsing.aspx.cs içinde: satýr 33
+2025-05-03 18:02:42,137 ERROR RSS parsing sýrasýnda hata oluþtu:
+System.Xml.XmlException: Adý 'html' ve ad alaný '' olan öðe izin verilen bir akýþ biçimi deðil.
+   konum: System.ServiceModel.Syndication.SyndicationFeed.Load[TSyndicationFeed](XmlReader reader)
+   konum: Selim_Can_Yazar_Hw5.RSSparsing.Page_Load(Object sender, EventArgs e) C:\Users\selim\source\repos\Selim_Can_Yazar-Hw5\Selim_Can_Yazar-Hw5\RSSparsing.aspx.cs içinde: satýr 40
+2025-05-03 19:08:39,551 ERROR RSS parsing sýrasýnda hata oluþtu:
+System.Xml.XmlException: Adý 'html' ve ad alaný '' olan öðe izin verilen bir akýþ biçimi deðil.
+   konum: System.ServiceModel.Syndication.SyndicationFeed.Load[TSyndicationFeed](XmlReader reader)
+   konum: Selim_Can_Yazar_Hw5.RSSparsing.Page_Load(Object sender, EventArgs e) C:\Users\selim\source\repos\Selim_Can_Yazar-Hw5\Selim_Can_Yazar-Hw5\RSSparsing.aspx.cs içinde: satýr 40
+2025-05-03 19:59:48,105 ERROR RSS parsing sýrasýnda hata oluþtu:
+System.Xml.XmlException: '' (onaltýlýk deðeri 0x1F), geçersiz bir karakter. Satýr 1, konum 1.
+   konum: System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   konum: System.Xml.XmlTextReaderImpl.ThrowInvalidChar(Char[] data, Int32 length, Int32 invCharPos)
+   konum: System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   konum: System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   konum: System.Xml.XmlReader.MoveToContent()
+   konum: System.Xml.XmlReader.IsStartElement(String localname, String ns)
+   konum: System.ServiceModel.Syndication.SyndicationFeed.Load[TSyndicationFeed](XmlReader reader)
+   konum: Selim_Can_Yazar_Hw5.RSSparsing.<Page_Load>d__2.MoveNext() C:\Users\selim\source\repos\Selim_Can_Yazar-Hw5\Selim_Can_Yazar-Hw5\RSSparsing.aspx.cs içinde: satýr 64
+2025-05-03 20:15:26,705 INFO  RAW XML (https://www.ntv.com.tr/son-dakika.rss):
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">ntv.com.tr</title>
+  <subtitle type="text">NTV Haber - Türkiye ve Dünya Gündemi Güncel Son Dakika Haberleri - Editörün Seçimi</subtitle>
+  <id>https://www.ntv.com.tr/</id>
+  <rights type="text">Telif Hakký 2019 ntv.com.tr</rights>
+  <updated>2025-05-03T17:15:00Z</updated>
+  <link rel="alternate" href="https://www.ntv.com.tr/rss" />
+  <entry>
+    <id>https://www.ntv.com.tr/turkiye/sirri-sureyya-
+2025-05-03 20:15:26,713 INFO  Found 0 <item> nodes in https://www.ntv.com.tr/son-dakika.rss
+2025-05-03 20:15:26,948 INFO  RAW XML (https://www.ntv.com.tr/gundem.rss):
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">ntv.com.tr</title>
+  <subtitle type="text">NTV Haber - Türkiye ve Dünya Gündemi Güncel Son Dakika Haberleri - Editörün Seçimi</subtitle>
+  <id>https://www.ntv.com.tr/</id>
+  <rights type="text">Telif Hakký 2019 ntv.com.tr</rights>
+  <updated>2025-05-03T17:14:49Z</updated>
+  <link rel="alternate" href="https://www.ntv.com.tr/rss" />
+  <entry>
+    <id>https://www.ntv.com.tr/galeri/astroloji-ve-bu
+2025-05-03 20:15:26,949 INFO  Found 0 <item> nodes in https://www.ntv.com.tr/gundem.rss
+2025-05-03 20:15:27,030 INFO  RAW XML (https://www.ntv.com.tr/turkiye.rss):
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">ntv.com.tr</title>
+  <subtitle type="text">NTV Haber - Türkiye ve Dünya Gündemi Güncel Son Dakika Haberleri - Editörün Seçimi</subtitle>
+  <id>https://www.ntv.com.tr/</id>
+  <rights type="text">Telif Hakký 2019 ntv.com.tr</rights>
+  <updated>2025-05-03T17:15:20Z</updated>
+  <link rel="alternate" href="https://www.ntv.com.tr/rss" />
+  <entry>
+    <id>https://www.ntv.com.tr/turkiye/tbmmdeki-siyas
+2025-05-03 20:15:27,031 INFO  Found 0 <item> nodes in https://www.ntv.com.tr/turkiye.rss
+2025-05-03 20:15:27,125 INFO  RAW XML (https://www.ntv.com.tr/dunya.rss):
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">ntv.com.tr</title>
+  <subtitle type="text">NTV Haber - Türkiye ve Dünya Gündemi Güncel Son Dakika Haberleri - Editörün Seçimi</subtitle>
+  <id>https://www.ntv.com.tr/</id>
+  <rights type="text">Telif Hakký 2019 ntv.com.tr</rights>
+  <updated>2025-05-03T17:15:03Z</updated>
+  <link rel="alternate" href="https://www.ntv.com.tr/rss" />
+  <entry>
+    <id>https://www.ntv.com.tr/galeri/dunya/green-car
+2025-05-03 20:15:27,128 INFO  Found 0 <item> nodes in https://www.ntv.com.tr/dunya.rss
+2025-05-03 20:15:27,213 INFO  RAW XML (https://www.ntv.com.tr/ekonomi.rss):
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">ntv.com.tr</title>
+  <subtitle type="text">NTV Haber - Türkiye ve Dünya Gündemi Güncel Son Dakika Haberleri - Editörün Seçimi</subtitle>
+  <id>https://www.ntv.com.tr/</id>
+  <rights type="text">Telif Hakký 2019 ntv.com.tr</rights>
+  <updated>2025-05-03T17:15:20Z</updated>
+  <link rel="alternate" href="https://www.ntv.com.tr/rss" />
+  <entry>
+    <id>https://www.ntv.com.tr/galeri/ekonomi/hafta-s
+2025-05-03 20:15:27,214 INFO  Found 0 <item> nodes in https://www.ntv.com.tr/ekonomi.rss
+2025-05-03 20:15:27,296 INFO  RAW XML (https://www.ntv.com.tr/spor.rss):
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">ntv.com.tr</title>
+  <subtitle type="text">NTV Haber - Türkiye ve Dünya Gündemi Güncel Son Dakika Haberleri - Editörün Seçimi</subtitle>
+  <id>https://www.ntv.com.tr/</id>
+  <rights type="text">Telif Hakký 2019 ntv.com.tr</rights>
+  <updated>2025-05-03T17:13:53Z</updated>
+  <link rel="alternate" href="https://www.ntv.com.tr/rss" />
+  <entry>
+    <id>https://www.ntv.com.tr/galeri/sporskor/canli-
+2025-05-03 20:15:27,297 INFO  Found 0 <item> nodes in https://www.ntv.com.tr/spor.rss
+2025-05-03 20:15:27,382 INFO  RAW XML (https://www.ntv.com.tr/teknoloji.rss):
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">ntv.com.tr</title>
+  <subtitle type="text">NTV Haber - Türkiye ve Dünya Gündemi Güncel Son Dakika Haberleri - Editörün Seçimi</subtitle>
+  <id>https://www.ntv.com.tr/</id>
+  <rights type="text">Telif Hakký 2019 ntv.com.tr</rights>
+  <updated>2025-05-03T17:15:15Z</updated>
+  <link rel="alternate" href="https://www.ntv.com.tr/rss" />
+  <entry>
+    <id>https://www.ntv.com.tr/galeri/sporskor/gta-6-
+2025-05-03 20:15:27,384 INFO  Found 0 <item> nodes in https://www.ntv.com.tr/teknoloji.rss
+2025-05-03 20:15:27,535 INFO  RAW XML (https://www.ntv.com.tr/saglik.rss):
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">ntv.com.tr</title>
+  <subtitle type="text">NTV Haber - Türkiye ve Dünya Gündemi Güncel Son Dakika Haberleri - Editörün Seçimi</subtitle>
+  <id>https://www.ntv.com.tr/</id>
+  <rights type="text">Telif Hakký 2019 ntv.com.tr</rights>
+  <updated>2025-05-03T17:15:12Z</updated>
+  <link rel="alternate" href="https://www.ntv.com.tr/rss" />
+  <entry>
+    <id>https://www.ntv.com.tr/galeri/n-life/saglikli
+2025-05-03 20:15:27,536 INFO  Found 0 <item> nodes in https://www.ntv.com.tr/saglik.rss
